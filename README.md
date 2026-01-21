@@ -1,16 +1,15 @@
-## Hi there 👋
+## Heya there 👋
+I'm Kennata or just call me KenKen
 
-<!--
-**Kennata/Kennata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a FrontEnd Android Developer
 
-Here are some ideas to get you started:
+If an idea is there, i'll build it
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Main tech stack:
+- Kotlin
+- Jetpack Compose
+- Ktor
+
+For the IDE, i use Android Studio. To make UI, i use Figma
+
+To contact me, Just DM me in [Linked in](https://www.linkedin.com/in/kennata-keanu-risang-704425293/)
